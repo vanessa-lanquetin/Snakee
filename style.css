@@ -1,0 +1,29 @@
+body{
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#title{
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-top: 20px;
+}
+
+h1{
+  font-family: Poppins;
+  font-size: 3.3 em;
+  margin: 0;
+  padding-top:20px ;
+}
+
+#e1{
+  color: #48E3C7;
+}
+
+#e2{
+  color: #D59DEC;
+}
